@@ -2,7 +2,7 @@
 
 **Computer Science and Mathematics at Drexel University**  
 
-Currently, I’m working for a startup, building low-latency rover swarming and autonomous systems. 
+Currently, I’m working for a startup where I am building low-latency rover swarming and autonomous systems. 
 Previously, I worked at **Amazon Robotics** and **Susquehanna (SIG)** on distributed systems, backend infrastructure, and developer tooling.
 
 ## Interests
