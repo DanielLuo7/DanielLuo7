@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Dan Luo
 
-<!--
-**DanielLuo7/DanielLuo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science and Mathematics at Drexel University**  
 
-Here are some ideas to get you started:
+Currently, I’m working for a startup, building low-latency rover swarming and autonomous systems. 
+Previously, I worked at **Amazon Robotics** and **Susquehanna (SIG)** on distributed systems, backend infrastructure, and developer tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- 🧠 AI / ML-driven automation
+- ⚙️ Distributed systems & infrastructure
+- 📈 Sports betting, trading, and financial data engineering
+- 🎮 Game AI and procedural generation
+- 💻 Backend-heavy full-stack development
+
+## 🛠️ Tech Stack
+
+```text
+Languages: Python, Java, JavaScript/TypeScript, C++, Swift, C#  
+Frameworks: FastAPI, React, Flask, Node.js, Express, Next.js
+Infra & Tools: AWS (Lambda, Kinesis, DynamoDB, SQS), GitLab CI/CD, Kubernetes, Docker  
+Databases: PostgreSQL, DynamoDB, Redis
